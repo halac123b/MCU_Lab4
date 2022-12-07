@@ -1,0 +1,7 @@
+llist.c:14:14:allocNode	16	static
+llist.c:22:6:deallocNode	16	static
+llist.c:35:6:addNode	32	static
+llist.c:58:6:deleteNode	24	static
+llist.c:70:5:countNode	4	static
+llist.c:74:14:popFront	16	static
+llist.c:81:14:getFront	4	static
